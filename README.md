@@ -25,5 +25,6 @@ Estructura
     ├── 📄 ejercicio-02.js
     ├── 📄 ejercicio-03.js
     └── …
+
 Autor
 Agustín Linares Carrera — uso educativo.
