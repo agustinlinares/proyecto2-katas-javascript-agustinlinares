@@ -5,6 +5,7 @@ Incluye
 Ejercicios básicos y avanzados de JavaScript
 Ejercicios DOM
 Ejercicios ES6+ y asincronía
+
 Estructura
 /
 ├── 📁 ejercicios-basicos-avanzados/
@@ -25,5 +26,6 @@ Estructura
     ├── 📄 ejercicio-02.js
     ├── 📄 ejercicio-03.js
     └── …
+    
 Autor
 Agustín Linares Carrera — uso educativo.
